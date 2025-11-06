@@ -103,10 +103,4 @@ The `colab/` directory contains Jupyter notebooks for model training and testing
 - Models should be stored in the `utils/` folder (excluded from version control)
 - Can be extended to support multi-language processing or custom models
 
-## 🤝 Contributing
 
-Feel free to fork this repository and submit pull requests for any improvements.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
